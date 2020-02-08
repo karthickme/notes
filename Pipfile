@@ -12,6 +12,8 @@ sklearn = "*"
 jupyter = "*"
 matplotlib = "*"
 scipy = "*"
+ipykernel = "*"
+qiskit = "*"
 
 [requires]
 python_version = "3.6"
